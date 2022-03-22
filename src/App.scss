@@ -1,0 +1,46 @@
+*{
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+}
+.header{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: blue;
+}
+.nav-menu{
+  width: 40%;
+  }
+  .list{
+    list-style: none;
+     display: flex;
+     justify-content: space-between;
+     width: 100%;  
+}
+a{
+  color: white;
+  font-size: 20px;
+  font-family: cursive;
+}
+.logo{
+  width: 50px;
+}
+.items{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.pict{
+  width: 400px;
+  height: 600px;
+}
+.seachPlace{
+  display: flex;
+}
+.btn{
+  background-color: lawngreen;
+  color: blueviolet;
+  font-size: 24px;
+  font-family: cursive  ;
+}
